@@ -1,0 +1,27 @@
+.dataHeader {
+  display: flex;
+  gap: 75px;
+}
+
+.dataRows {
+  display: flex;
+  gap: 40px;
+}
+
+.article {
+  padding-left: 40px;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+button{
+    background-color: lightgrey;
+}
